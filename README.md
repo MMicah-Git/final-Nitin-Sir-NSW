@@ -1,3 +1,3 @@
-# TakeoffNSW Formatter
+# TakeoffNSW Formatter (Python 3.13 deploy)
 
-Deploy-ready placeholder repo. Replace app file if needed.
+Main file: takeoffnsw_formatter.py
